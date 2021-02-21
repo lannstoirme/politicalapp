@@ -1,0 +1,12 @@
+{
+  "name": "PoliticalApp",
+  "displayName": "PoliticalApp",
+  "expo": {
+    "name": "PoliticalApp",
+    "slug": "PoliticalApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
